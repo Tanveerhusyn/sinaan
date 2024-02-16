@@ -106,7 +106,7 @@ export default function Profile() {
                   </div>
                   <div className="mb-2 text-gray-700">
                     <i className="fas fa-university mr-2 text-lg text-gray-500"></i>
-                    University of Computer Science
+                    Roots Millennium School
                   </div>
                 </div>
                 <div className="mt-10 py-10 border-t border-gray-300 text-center">
